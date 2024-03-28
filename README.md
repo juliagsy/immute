@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Due to the lack of image-music dataset in the field, the work investigates feasible and efficient methods of collecting image-music dataset. A combination of the Google MusicCaps text-music dataset and Stable Diffusion text-to-image Generative AI is applied. The work has succeeded in producing a reliable image-music-text dataset - ImMuTe of size 5521 data pairs for training and testing purposes.
+Due to the limited number of image-music dataset in the field, the work investigates feasible and efficient methods of collecting image-music dataset. A combination of the Google MusicCaps text-music dataset and Stable Diffusion text-to-image Generative AI is applied. The work has succeeded in producing a reliable image-music-text dataset - ImMuTe of size 5521 data pairs for training and testing purposes.
 
 
 
